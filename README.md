@@ -27,3 +27,4 @@ If the login is successful, Amazon Cognito creates a session and returns an ID, 
 You can use the tokens to grant your users access to your own server-side resources or to the Amazon API Gateway. 
 Or you can exchange them for temporary AWS credentials to access other AWS services.(identity pool)
 
+![user-pool](images/user-pool.jpg?raw=true "user-pool")
